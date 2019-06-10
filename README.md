@@ -16,6 +16,7 @@ Community curated plugins for c-lightning.
 | [probe][probe]                     | Regularly probes the network for stability                                 |
 | [prometheus][prometheus]           | Lightning node exporter for the prometheus timeseries server               |
 | [rebalance][rebalance]             | Keeps your channels balanced                                               |
+| [remoteRPC][remoteRPC]             | HTTP/HTTPS proxy for unix RPC socket                                       |
 | [sendinvoiceless][sendinvoiceless] | Sends some money without an invoice from the receiving node.               |
 | [sitzprobe][sitzprobe]             | A Lightning Network payment rehearsal utility                              |
 | [summary][summary]                 | Print a nice summary of the node status                                    |
@@ -100,3 +101,4 @@ your environment.
 [graphql-spec]: https://graphql.org/
 [autoreload]: https://github.com/lightningd/plugins/tree/master/autoreload
 [lightning-qt]: https://github.com/darosior/pylightning-qt
+[remoteRPC]: https://github.com/rsbondi/clightning-go-plugin/tree/master/remoteRPC

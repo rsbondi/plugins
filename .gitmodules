@@ -10,3 +10,6 @@
 [submodule "lightning-qt"]
 	path = lightning-qt
 	url = https://github.com/darosior/pylightning-qt
+[submodule "clightning-go-plugin"]
+	path = clightning-go-plugin
+	url = https://github.com/rsbondi/clightning-go-plugin
